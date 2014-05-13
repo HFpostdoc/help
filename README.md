@@ -24,4 +24,5 @@ Repositories
 - docs = associated documents (e.g., manuscripts or meta)
 
 *Setting the default username and password*
+
 git remote set-url origin git@github.com:username/repo.git
