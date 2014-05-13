@@ -22,3 +22,6 @@ Repositories
 - src = well developed and edited code
 - results = location for analysis output, summaries and figures
 - docs = associated documents (e.g., manuscripts or meta)
+
+*Setting the default username and password*
+git remote set-url origin git@github.com:username/repo.git
