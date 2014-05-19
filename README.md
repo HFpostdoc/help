@@ -27,6 +27,11 @@ Gists
 =====
 - use for sharing a piece of code without setting up a full repository
 
+Dashboard
+=========
+- https://github.com/dashboard/issues
+- quickly view your issues and other info across all of your organizations and repositories
+
 *Setting the default username and password*
 
 git remote set-url origin git@github.com:username/repo.git
